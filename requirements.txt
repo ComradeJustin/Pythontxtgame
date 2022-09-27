@@ -1,0 +1,4 @@
+art==5.7
+colorama==0.4.5
+console==0.9907
+psutil==5.9.2
